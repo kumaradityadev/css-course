@@ -1,0 +1,6 @@
+body{
+   background-image: url(./clouds-conifer-daylight-371589.jpg), url(./th.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-blend-mode:darken;
+}

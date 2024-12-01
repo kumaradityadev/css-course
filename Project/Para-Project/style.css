@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "jost";
+}
+section{
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+}
+.section-1{
+    background-image: url(./9v5LTr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}.section-2{
+    background-image: url(./bugatti_veyron_cars_sport_cars_white_hood_lights_suite_93487_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}.section-3{
+    background-image: url(./Cars\ Wallpapers\ Screenshot\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}.section-4{
+    background-image: url(./HD-Backgrounds-Car-Wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}.section-5{
+    background-image: url(./wallpapersden.com_lamborghini_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

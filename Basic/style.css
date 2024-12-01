@@ -1,0 +1,17 @@
+h1{
+    color: #f0f;
+}
+.para{
+    color: #0ff;
+}
+#para{
+    color: blue;
+}
+#btn{
+    background-color: #cc3636;
+    color: #fff;
+    font-size: 30px;
+}
+#btn:hover{
+    background-color: black;
+}
